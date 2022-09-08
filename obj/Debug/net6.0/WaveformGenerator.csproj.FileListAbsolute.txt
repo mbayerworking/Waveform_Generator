@@ -1,0 +1,15 @@
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\WaveformGenerator.exe
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\WaveformGenerator.deps.json
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\WaveformGenerator.runtimeconfig.json
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\WaveformGenerator.dll
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\ref\WaveformGenerator.dll
+C:\Users\12537\source\repos\csharp\WaveformGenerator\bin\Debug\net6.0\WaveformGenerator.pdb
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.csproj.AssemblyReference.cache
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.AssemblyInfoInputs.cache
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.AssemblyInfo.cs
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.csproj.CoreCompileInputs.cache
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.dll
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\ref\WaveformGenerator.dll
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.pdb
+C:\Users\12537\source\repos\csharp\WaveformGenerator\obj\Debug\net6.0\WaveformGenerator.genruntimeconfig.cache
